@@ -1,4 +1,4 @@
-# Srivastava_et_al_2024_PCA
+# Srivastava_et_al_2024_PCA[![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs12040--024--02306--2-blue)](https://doi.org/10.1007/s12040-024-02306-2)
 
 Python implementation of Principal Component Analysis (PCA) applied to bulk-sediment geochemical datasets from two distinct sedimentary systems — the Shimla and Chail metasediments (SCM) of the Lesser Himalaya, Himachal Pradesh, and the mudflat sediments of Diu Island (DMS), southern Saurashtra, Gujarat. The analysis reproduces and validates the results published in Srivastava et al. (2024), Journal of Earth System Science, 133(3), 122. The code is validated against the original MATLAB outputs and produces scree plots, RQ-mode biplots, and loadings heatmaps identical to the published figures.
 
